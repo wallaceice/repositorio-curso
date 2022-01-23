@@ -9,7 +9,7 @@ public class main {
 
 
         Cliente clitente1 = new Cliente("james","Rua andromeda.163","107.891.315-37");
-        Cliente clitente2 = new Cliente("jhonnatan","Rua esmeralda.3","503.982.123-15");
+        Cliente clitente2 = new Cliente("pamela","Rua esmeralda.3","503.982.123-15");
 
 
         Conta cc = new ContaCorrente(clitente1);
